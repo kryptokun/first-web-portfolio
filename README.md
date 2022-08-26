@@ -6,4 +6,4 @@
 <p>My personal portfolio website</p>
 
 <p>Try it out below!</p>
-https://kun-personal-portweb.netlify.app
+www.kunalsingh.io
